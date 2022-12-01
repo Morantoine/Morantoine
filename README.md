@@ -27,3 +27,6 @@ Some of the **technologies** I use :
 
 [![Linkedin](https://img.shields.io/badge/My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-moran/)
 [![Mail](https://img.shields.io/badge/Email%20Me-873260?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:antoine.moran@grenoble-inp.org)
+
+
+[![Spotify](http://fxckbda.fr:5000/?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/morantxuu)
